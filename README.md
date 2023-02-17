@@ -26,8 +26,7 @@ Need to carry out a classification to determine the Diagnosis of mammary tissues
 The project was carried out individually.
 
 ## Puedes utilizar Deepnote para visualizar el proyecto y trabajar interactivamente con los notebooks siguiendo el enlace de este botón:
-[<img src="https://deepnote.com/buttons/try-in-a-jupyter-notebook.svg">](https://deepnote.com/@aazg/Binary-Classification-Implementation-in-Breast-Cancer-Wisconsin-Diagnostic-Data-Set-a1a787f4-e09a-491d-b983-72959c4a6927)
-
+[<img src="https://deepnote.com/buttons/try-in-a-jupyter-notebook.svg">](https://deepnote.com/@aazg/Binary-Classification-Implementation-in-Breast-Cancer-a1a787f4-e09a-491d-b983-72959c4a6927)
 
 ## License.
 This project is OpenSource, feel free to copy and improve it as much as you want.

@@ -8,7 +8,7 @@ ydata_profiling==4.0.0
 pyjanitor 
 matplotlib==3.4.1
 numpy==1.22.4
-pandas==1.3.2
+pandas==1.4.4
 pandas-flavor 
 seaborn==0.11.1
 session-info==1.0.0
@@ -25,3 +25,4 @@ imbalanced_learn==0.10.1
 ipython==8.10.0
 joblib==1.2.0
 tqdm==4.60.0
+jinja2==3.0.0
